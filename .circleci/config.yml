@@ -9,7 +9,7 @@ jobs:
     steps:
 
       # install git
-      - run: /bin/bash apk update && /bin/bash apk add git
+      - run: apt-get install git
 
       # checkout the repository
       - checkout
