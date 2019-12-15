@@ -1,7 +1,6 @@
 version: 2
 jobs:
   build:
-    context: vuong-io
     docker:
       - image: cibuilds/hugo:latest
     working_directory: ~/vuong-io
