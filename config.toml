@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "OPCUA Folks"
-themesDir = "../"
+themesDir = "."
 theme = "hugo-serif-theme"
 enableEmoji = true
 
