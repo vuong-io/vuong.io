@@ -1,0 +1,3 @@
+[submodule "hugo-serif-theme"]
+	path = hugo-serif-theme
+	url = git@github.com:vuong-io/hugo-serif-theme.git
