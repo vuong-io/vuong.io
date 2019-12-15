@@ -5,7 +5,7 @@ jobs:
       - image: cibuilds/hugo:latest
     working_directory: ~/vuong-io
     environment:
-      HUGO_BUILD_DIR: `public/
+      HUGO_BUILD_DIR: public/
     steps:
 
       # install git
