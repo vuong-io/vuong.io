@@ -20,11 +20,11 @@ enableEmoji = true
     meta_og_title = "OPCUA folks"
     meta_og_type = "website"
     meta_og_url = "github.com/vuong-io/"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_image = ""
     meta_og_description = "vuong.io - OPCUA experts & solutions"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@IoVuong"
+    meta_twitter_creator = "@IoVuong"
 
 [menu]
   # Main Menu
