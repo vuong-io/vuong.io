@@ -5,6 +5,9 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# vuong.io.
+# Vuong.io
 
-## We :heart: OPCUA
+![Image of Logo](../images/VuongIO-Logo.png)
+
+
+## We :green_heart: FOSS

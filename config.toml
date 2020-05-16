@@ -11,8 +11,8 @@ enableEmoji = true
   google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "images/vuong.svg"
-    standard  = "images/vuong.svg"
+    mobile = "images/VuongIO-Logo.png"
+    standard  = "images/VuongIO-Logo.png"
     alt = "vuong.io hosted OPCUA solutions"
 
   [params.homepage_meta_tags]
