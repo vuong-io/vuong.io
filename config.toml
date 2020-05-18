@@ -12,7 +12,7 @@ enableEmoji = true
 
   [params.logo]
     mobile = "images/VuongIO-Logo.png"
-    standard  = "images/VuongIO-Logo.png"
+    standard  = "images/VuongIO-Logo.svg"
     alt = "vuong.io hosted OPCUA solutions"
 
   [params.homepage_meta_tags]
