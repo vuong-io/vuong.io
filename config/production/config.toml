@@ -1,4 +1,4 @@
-baseURL = "http://vuong.io/"
+baseURL = "https://vuong.io/"
 languageCode = "en-us"
 title = "OPCUA Folks"
 themesDir = "."
