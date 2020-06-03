@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "OPCUA Folks"
 themesDir = "."
@@ -14,6 +14,7 @@ enableEmoji = true
     mobile = "images/VuongIO-Logo.png"
     standard  = "images/VuongIO-Logo.png"
     alt = "vuong.io hosted OPCUA solutions"
+    favicon = "favicon-32x32.png"
 
   [params.homepage_meta_tags]
     meta_description = "vuong.io - OPCUA experts & solutions"
