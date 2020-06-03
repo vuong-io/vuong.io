@@ -7,7 +7,5 @@ intro_image_hide_on_mobile: true
 
 # Vuong.io
 
-![Image of Logo](../images/VuongIO-Logo.png)
-
 
 ## We :green_heart: FOSS
